@@ -1,10 +1,13 @@
 # internet-speed-test
 An Internet Speed Test built on Python's Turtle module.
 
+Note: This program requires 'requests' and 'speedtest-cli' packages installed on your computer.
+
 LOADING SCREEN
 
-![imagen](https://user-images.githubusercontent.com/111177666/230779140-7ec06a3d-0c60-402e-a4db-3629a575978f.png)
+![image](https://user-images.githubusercontent.com/111177666/231027726-af86ba8b-eb49-4670-b024-eccf95ec7281.png)
+
 
 RESULTS SCREEN
 
-![imagen](https://user-images.githubusercontent.com/111177666/230779313-fab9a445-b6ff-4921-be22-1850a686d8f6.png)
+![image](https://user-images.githubusercontent.com/111177666/231027947-8dd7dc9f-0529-44cb-801a-87fbc8b283ab.png)
